@@ -1,0 +1,35 @@
+[
+  {
+    "experiment": "图像提示词对照",
+    "input_files": [],
+    "prompt": "",
+    "result_summary": "",
+    "unsupported_claims": [],
+    "evidence_checked": false,
+    "seconds": null,
+    "usage": {},
+    "next_change": ""
+  },
+  {
+    "experiment": "字段与业务校验",
+    "input_files": [],
+    "prompt": "",
+    "result_summary": "",
+    "unsupported_claims": [],
+    "evidence_checked": false,
+    "seconds": null,
+    "usage": {},
+    "next_change": ""
+  },
+  {
+    "experiment": "历史保留策略",
+    "input_files": [],
+    "prompt": "",
+    "result_summary": "",
+    "unsupported_claims": [],
+    "evidence_checked": false,
+    "seconds": null,
+    "usage": {},
+    "next_change": ""
+  }
+]

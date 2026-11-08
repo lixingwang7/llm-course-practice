@@ -1,0 +1,20 @@
+{
+  "input": [
+    {
+      "role": "user",
+      "content": "用一句话解释什么是上下文。"
+    }
+  ],
+  "output": "上下文就是你在说话或做事时，周围那些能让对方准确理解你意思的所有背景信息。",
+  "seconds": 1.07,
+  "usage": {
+    "prompt_tokens": 10,
+    "completion_tokens": 20,
+    "total_tokens": 30,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 10
+  }
+}
